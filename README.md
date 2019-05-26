@@ -5,4 +5,4 @@
 3) Save table as html and read it onto an email
 4) Emails table to the email address you save
 
-Goals: Web scrape and smtp emailing within Python
+Goals: Web scrape and smtp emailing using Python
